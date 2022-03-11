@@ -1,0 +1,3 @@
+#!/bin/bash
+
+# seus comandos aqui ...
