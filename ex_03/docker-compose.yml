@@ -1,4 +1,5 @@
 services:
   angular-app:
-    # ...
-
+    build: ./app
+    ports:
+      - 80:80
